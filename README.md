@@ -1,16 +1,13 @@
-### Hi there 👋
+## ola! >.< 👋
 
-<!--
-**evellynellen/evellynellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/evellynellen">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=evellynellen&show_icons=true&theme=rose"/>
+    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&hide_progress=true&theme=rose"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="rigth" alt="eve-gif" scr=""
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
