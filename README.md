@@ -22,3 +22,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=evellynellen&icon=7&color=10)](https://visitcount.itsvg.in)
+
+![Snake animation](https://github.com/evellynellen/evelynellen/blob/output/github-contribution-grid-snake.svg)
