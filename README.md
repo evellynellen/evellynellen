@@ -1,31 +1,68 @@
-## ola! >.< 👋
+<!-- Rxyhn's Aesthetic GitHub Profile -->
+<div align="justify">
 
-# ♡ tech stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Eve, a Student, I like Penguins and Apples, but I don't like Windows.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+      <br>
+      <b>
+        ~ Rayhan Kafi Pratama ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
+<br>
 
-# ♡ github stats
-![](https://github-readme-stats.vercel.app/api?username=evellynellen&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=evellynellen&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<details>
+<summary><samp><b>More Info</b></samp></summary>
 
-## ♡ github trophies
-![](https://github-profile-trophy.vercel.app/?username=evellynellen&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<h2></h2><br>
 
-### ♡ random dev quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Contact Me -->
+<p align="center">
+  <samp>  
+    You can reach me at [<a href="mailto: ellenevellyn988@gmail.com">e-mail</a>]
+  </samp>
+</p>
 
-### ♡ top contributed repo
-![](https://github-contributor-stats.vercel.app/api?username=evellynellen&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<h2></h2><br>
 
-### ♡ meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- Profile Views Badge -->
+<p align="center">
+  <samp>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=evellynellen&label=Profile+Views&color=grey" alt="profile views" /> 
+  </a>
+  </samp>
+</p>
 
+<!-- Github Trophy -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=evellynellen&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+    </tr>
+  </table>
+</div>
+
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=evellynellen&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
+</div>
+
+</details>
+</div>
