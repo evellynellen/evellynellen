@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-<p>🖥️ I’m an intern in software development - 📕 systems analysis and development student 4/6 </p>
+<p>🖥️ Seeking a software development internship - 📕 systems analysis and development student 4/6 </p>
 </div>
 
 ------------------------------------------------------------------
