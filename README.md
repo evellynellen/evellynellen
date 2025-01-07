@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d5a6bd&size=35&center=true&vCenter=true&width=1000&lines=+Hi!+🩷;Welcome+to+my+GitHub!+☺️)](https://git.io/typing-svg)
 
 <div align="center">
-  <p style="font-size: 16px;">💻 Aspiring Software Developer Intern • 📖 Systems Analysis & Development Student (4/6) </p>
+  <p style="font-size: 16px;">💻 Aspiring Software Developer Intern • 📖 Systems Analysis & Development Student (5/6) </p>
 </div>
 
 ---
