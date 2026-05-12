@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d5a6bd&size=35&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+Cyber+Space+🩷;Estudante+de+Cibersegurança+%26+Tecnologia;Sempre+aprendendo+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d5a6bd&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+Cyber+Space+🩷;Estudante+de+Cibersegurança+%26+Tecnologia;Sempre+aprendendo+🔐)](https://git.io/typing-svg)
 
 <div align="center">
   <p style="font-size: 16px;">
