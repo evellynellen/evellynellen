@@ -43,19 +43,21 @@
 ### 🛠️ Tech Stack
 <div align="center">
 
-<img src="https://img.shields.io/badge/Windows-D5A6BD?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=D5A6BD" />
-<img src="https://img.shields.io/badge/Python-D5A6BD?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=D5A6BD" />
+<img src="https://img.shields.io/badge/Linux-D5A6BD?style=for-the-badge&logo=linux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=D5A6BD" />
+
+<img src="https://img.shields.io/badge/AWS-D5A6BD?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D5A6BD" />
+
 <img src="https://img.shields.io/badge/Git-D5A6BD?style=for-the-badge&logo=git&logoColor=white" />
 
-<br><br>
+<img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=D5A6BD" />
 
-<img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge&logoColor=D5A6BD" />
-<img src="https://img.shields.io/badge/DNS-D5A6BD?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DHCP-0D1117?style=for-the-badge&logoColor=D5A6BD" />
-<img src="https://img.shields.io/badge/VPN-D5A6BD?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logoColor=D5A6BD" />
+<img src="https://img.shields.io/badge/Cybersecurity-D5A6BD?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+
+<img src="https://img.shields.io/badge/IT_Support-0D1117?style=for-the-badge&logo=microsoft&logoColor=D5A6BD" />
 
 </div>
 
