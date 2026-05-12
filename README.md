@@ -32,17 +32,15 @@
 </div>
 
 ---
-
 ### 📊 GitHub Stats
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=evellynellen&show_icons=true&count_private=true&hide_border=true&title_color=D5A6BD&icon_color=D5A6BD&text_color=D4C4D8&bg_color=0D1117" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=evellynellen&hide_border=true&background=0D1117&ring=D5A6BD&fire=D5A6BD&currStreakLabel=D5A6BD&sideLabels=D4C4D8&dates=D4C4D8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynellen&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=evellynellen&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&layout=compact&hide_border=true&title_color=D5A6BD&text_color=D5A6BD&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&layout=compact&theme=radical&hide_border=true" />
 </div>
-
 ---
 
 ### 🛠️ Tech Stack
