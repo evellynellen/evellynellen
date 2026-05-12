@@ -35,8 +35,10 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=evellynellen&hide_border=true&background=0D1117&ring=D5A6BD&fire=D5A6BD&currStreakNum=F8D7E3&sideNums=F8D7E3&currStreakLabel=D5A6BD&sideLabels=D5A6BD&dates=F8D7E3&stroke=D5A6BD" />
+  
 </div>
 
+---
 
 ### 🛠️ Tech Stack
 <div align="center">
