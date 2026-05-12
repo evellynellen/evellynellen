@@ -34,12 +34,13 @@
 ---
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynellen&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=evellynellen&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynellen&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D5A6BD&icon_color=D5A6BD&text_color=F8D7E3&cache_seconds=1800" />
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=evellynellen&hide_border=true&background=0D1117&ring=D5A6BD&fire=D5A6BD&currStreakLabel=D5A6BD&sideLabels=F8D7E3&dates=F8D7E3" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&layout=compact&hide_border=true&bg_color=0D1117&title_color=D5A6BD&text_color=F8D7E3&cache_seconds=1800" />
 </div>
 ---
 
