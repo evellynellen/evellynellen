@@ -2,7 +2,7 @@
 
 <div align="center">
   <p style="font-size: 16px;">
-    🔐 Cybersecurity Student • 💻 Junior Mobile Developer • 📖 ADS Student (5th Semester)
+    🔐 Cybersecurity Student • 💻 IT Support & Infrastructure Learner • 📖 ADS Student (5th Semester)
   </p>
 </div>
 
