@@ -112,12 +112,6 @@ Anotações, desafios e estudos sobre segurança da informação.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evellynellen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d5a6bd&icon_color=d5a6bd&text_color=f8d7e3"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&layout=compact&hide_border=true&bg_color=0d1117&title_color=d5a6bd&text_color=f8d7e3"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=evellynellen&hide_border=true&background=0D1117&ring=D5A6BD&fire=D5A6BD&currStreakNum=F8D7E3&sideNums=F8D7E3&currStreakLabel=D5A6BD&sideLabels=D5A6BD&dates=F8D7E3&stroke=D5A6BD"/>
 
 </div>
