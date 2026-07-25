@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💗 Olá! Eu sou a Evellyn Ellen
+### 💗 Olá! Eu sou Evellyn Ellen
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre)
 
