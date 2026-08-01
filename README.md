@@ -66,12 +66,12 @@ Currently seeking my first opportunity in **IT Support** while continuously expa
 
 | Project | Description |
 |----------|-------------|
-| 🖥️ **[Windows Troubleshooting Guide](https://github.com/evellynellen/windows-troubleshooting-guide)** | Documentation of common Windows issues and troubleshooting procedures. |
+| 💻 **[Windows Troubleshooting Guide](https://github.com/evellynellen/windows-troubleshooting-guide)** | Documentation of common Windows issues and troubleshooting procedures. |
 | 🐧 **[Linux Server Labs](https://github.com/evellynellen/linux-server-labs)** | Ubuntu Server administration, shell scripting and Linux services. |
 | 🌐 **[Network Labs](https://github.com/evellynellen/network-labs)** | Practical networking labs covering TCP/IP, DNS, DHCP, VLAN, VPN, Wireshark and Nmap. |
-| 🏢 **[Active Directory Home Lab](https://github.com/evellynellen/active-directory-home-lab)** | Corporate environment simulation using Windows Server and Active Directory. |
-| ⚡ **[PowerShell Scripts](https://github.com/evellynellen/powershell-scripts)** | Automation scripts for Windows administration and IT Support tasks. |
-| 🔐 **[Cybersecurity Notes](https://github.com/evellynellen/cybersecurity-notes)** | Personal knowledge base with cybersecurity concepts, labs and study notes. |
+| 🗂️ **[Active Directory Home Lab](https://github.com/evellynellen/active-directory-home-lab)** | Corporate environment simulation using Windows Server and Active Directory. |
+| 📜 **[PowerShell Scripts](https://github.com/evellynellen/powershell-scripts)** | Automation scripts for Windows administration and IT Support tasks. |
+| 🛡️ **[Cybersecurity Notes](https://github.com/evellynellen/cybersecurity-notes)** | Personal knowledge base with cybersecurity concepts, labs and study notes. |
 
 ---
 
