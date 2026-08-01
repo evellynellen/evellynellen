@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/GitHub-D5A6BD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:ellenevellyn988@gmail.com">
+<a href="mailto:evellynellen,tech@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D5A6BD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -136,7 +136,7 @@ Currently seeking my first opportunity in **IT Support** while continuously expa
 
 <div align="center">
 
-<a href="mailto:ellenevellyn988@gmail.com">
+<a href="mailto:evellynellen,tech@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D5A6BD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
