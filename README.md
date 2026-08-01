@@ -34,8 +34,13 @@ My long-term goal is to grow into Infrastructure and eventually specialize in Cy
 
 ---
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evellynellen&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=evellynellen&theme=github_dark) |
-| :-: | :-: |
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=evellynellen&hide_border=true&background=0D1117&ring=D5A6BD&fire=D5A6BD&currStreakNum=F8D7E3&sideNums=F8D7E3&currStreakLabel=D5A6BD&sideLabels=D5A6BD&dates=F8D7E3&stroke=D5A6BD"/>
+
+</p>
+
+
 
 ---
 
