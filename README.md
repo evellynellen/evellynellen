@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D5A6BD&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3500&pause=1000&color=D5A6BD&center=true&vCenter=true&width=900&lines=Hi,+I'm+Evellyn+Ellen;Analysis+and+Systems+Development+Student;IT+Support+%7C+Infrastructure+%7C+Cybersecurity;Building+Home+Labs+and+Technical+Projects;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3500&pause=1000&color=D5A6BD&center=true&vCenter=true&width=900&lines=Olá,+sou+Evellyn+Ellen;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Infraestrutura+de+TI+%7C+Suporte+%7C+Redes;Construindo+Laboratórios+e+Projetos+Práticos;Bem-vindo+ao+meu+GitHub!" />
 
 <br>
 
@@ -22,17 +22,30 @@
 
 ---
 
-# About Me
+# Sobre Mim
 
-I'm an **Analysis and Systems Development** student focused on **IT Support, Infrastructure and Cybersecurity**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha carreira nas áreas de **Infraestrutura de TI, Suporte Técnico e Redes**.
 
-I build practical home labs that simulate real corporate environments, document troubleshooting procedures and develop technical projects focused on **Windows, Linux, Networking and System Administration**.
+Tenho desenvolvido meus conhecimentos por meio de **projetos pessoais, laboratórios práticos e documentação técnica**, explorando ambientes Windows e Linux, redes, troubleshooting, virtualização e computação em nuvem.
 
-Currently seeking my first opportunity in **IT Support** while continuously expanding my knowledge in **Infrastructure** and **Cybersecurity**.
+Atualmente, meus estudos e projetos estão concentrados em:
+
+* Windows e Suporte de TI
+* Troubleshooting e diagnóstico de problemas
+* Linux
+* Redes e TCP/IP
+* Virtualização
+* Microsoft Azure
+* Documentação técnica
+* Fundamentos de Segurança da Informação
+
+Meu objetivo é transformar conhecimento teórico em experiência prática, documentando o que aprendo e construindo uma base sólida para atuar profissionalmente em **Infraestrutura de TI e Suporte**.
+
+**Objetivo profissional:** iniciar minha carreira em Infraestrutura de TI / IT Support e continuar desenvolvendo conhecimentos em Cloud e Cybersecurity.
 
 ---
 
-# GitHub Statistics
+# Estatísticas do GitHub
 
 <div align="center">
 
@@ -52,7 +65,7 @@ Currently seeking my first opportunity in **IT Support** while continuously expa
 
 ---
 
-# Contribution Graph
+# Gráfico de Contribuições
 
 <div align="center">
 
@@ -62,22 +75,20 @@ Currently seeking my first opportunity in **IT Support** while continuously expa
 
 ---
 
-# Featured Projects
+# Projetos e Laboratórios
 
-| Project | Description |
-|----------|-------------|
-| 💻 **[Windows Troubleshooting Guide](https://github.com/evellynellen/windows-troubleshooting-guide)** | Documentation of common Windows issues and troubleshooting procedures. |
-| 🐧 **[Linux Server Labs](https://github.com/evellynellen/linux-server-labs)** | Ubuntu Server administration, shell scripting and Linux services. |
-| 🌐 **[Network Labs](https://github.com/evellynellen/network-labs)** | Practical networking labs covering TCP/IP, DNS, DHCP, VLAN, VPN, Wireshark and Nmap. |
-| 🗂️ **[Active Directory Home Lab](https://github.com/evellynellen/active-directory-home-lab)** | Corporate environment simulation using Windows Server and Active Directory. |
-| 📜 **[PowerShell Scripts](https://github.com/evellynellen/powershell-scripts)** | Automation scripts for Windows administration and IT Support tasks. |
-| 🛡️ **[Cybersecurity Notes](https://github.com/evellynellen/cybersecurity-notes)** | Personal knowledge base with cybersecurity concepts, labs and study notes. |
+| Projeto                                                                                            | Área                   | Descrição                                                                                                                      |
+| -------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **[Windows Troubleshooting Guide](https://github.com/evellynellen/windows-troubleshooting-guide)** | Suporte de TI          | Documentação de problemas comuns do Windows, procedimentos de diagnóstico e troubleshooting para ambientes de suporte técnico. |
+| **[Linux Cheatsheet](https://github.com/evellynellen/linux-cheatsheet)**                           | Linux                  | Guia de referência com comandos e conceitos fundamentais para utilização e administração de sistemas Linux.                    |
+| **[Network Labs](https://github.com/evellynellen/network-labs)**                                   | Redes                  | Laboratórios e estudos práticos sobre TCP/IP, endereçamento IP, subnetting, DNS, DHCP e troubleshooting de redes.              |
+| **[Azure Infrastructure Lab](https://github.com/evellynellen/Azure-Infraestructure-Lab)**          | Cloud e Infraestrutura | Laboratório voltado ao estudo de conceitos de infraestrutura e computação em nuvem utilizando Microsoft Azure.                 |
 
 ---
 
-# Technical Skills
+# Competências Técnicas
 
-## Infrastructure
+## Infraestrutura
 
 <p align="center">
 
@@ -85,37 +96,53 @@ Currently seeking my first opportunity in **IT Support** while continuously expa
 
 <img src="https://img.shields.io/badge/Linux-D5A6BD?style=for-the-badge&logo=linux&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/VirtualBox-D5A6BD?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PowerShell-D5A6BD?style=for-the-badge&logo=powershell&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Active%20Directory-D5A6BD?style=for-the-badge&logo=windows&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VirtualBox-D5A6BD?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Suporte%20de%20TI-D5A6BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Troubleshooting-D5A6BD?style=for-the-badge"/>
 
 </p>
 
-## Networking
+## Redes
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/TCP/IP-D5A6BD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-D5A6BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IPv4-D5A6BD?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/DNS-D5A6BD?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/DHCP-D5A6BD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Wireshark-D5A6BD?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-D5A6BD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Subnetting-D5A6BD?style=for-the-badge"/>
 
 </p>
 
-## Tools
+## Cloud
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-D5A6BD?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</p>
+
+## Ferramentas
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Git-D5A6BD?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-D5A6BD?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VirtualBox-D5A6BD?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-D5A6BD?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Python-D5A6BD?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -125,14 +152,17 @@ Currently seeking my first opportunity in **IT Support** while continuously expa
 
 ---
 
-# Certifications
+# Certificações
 
-- Google IT Support Professional Certificate *(In Progress)*
-- Cisco Networking Basics *(In Progress)*
+* **Google IT Support Professional Certificate** — Em andamento
+* **IBM Information Technology Fundamentals** — Em andamento
+* **Cisco Networking Basics** — Em andamento
+
+Novas certificações e formações técnicas serão adicionadas conforme forem concluídas.
 
 ---
 
-# Contact
+# Contato
 
 <div align="center">
 
@@ -148,12 +178,10 @@ Currently seeking my first opportunity in **IT Support** while continuously expa
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=D5A6BD"/>
-
-### Building practical experience through projects and home labs.
-
-*"Turning theory into real-world skills, one commit at a time."*
-
 </div>
+
+<div align="center">
+    Construindo experiência prática em Infraestrutura de TI, um laboratório de cada vez.
+
+*"Transformando teoria em habilidades práticas, um commit de cada vez."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=D5A6BD"/>
