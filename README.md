@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D5A6BD&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3500&pause=1000&color=D5A6BD&center=true&vCenter=true&width=900&lines=Olá,+sou+Evellyn+Ellen;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Infraestrutura+de+TI+%7C+Suporte+%7C+Redes;Construindo+Laboratórios+e+Projetos+Práticos;Bem-vindo+ao+meu+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3500&pause=1000&color=D5A6BD&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+Evellyn+Ellen%3BEstudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas%3BInfraestrutura+de+TI+%7C+Suporte+%7C+Redes%3BConstruindo+Laborat%C3%B3rios+e+Projetos+Pr%C3%A1ticos%3BBem-vindo+ao+meu+GitHub!" />
 
 <br>
 
