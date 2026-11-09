@@ -1,202 +1,351 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=D5A6BD&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5D3F33&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3500&pause=1000&color=D5A6BD&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+Evellyn+Ellen%3BEstudante+de+ADS+%7C+Ciberseguran%C3%A7a%3BSOC+Analyst+%7C+Blue+Team%3BMonitoramento+%7C+Detec%C3%A7%C3%A3o+de+Amea%C3%A7as%3BAprendendo+%E2%80%A2+Investigando+%E2%80%A2+Documentando" />
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3500&pause=1000&color=B69A88&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+sou+Evellyn+Ellen%3BEstudante+de+ADS+%7C+Ciberseguran%C3%A7a%3BSOC+%7C+Blue+Team+%7C+Security+Operations%3BDetec%C3%A7%C3%A3o+%7C+Investiga%C3%A7%C3%A3o+%7C+Resposta+a+Incidentes" />
 
 <br>
 
 <a href="https://github.com/evellynellen">
-<img src="https://img.shields.io/badge/GitHub-D5A6BD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-5D3F33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:evellynellen.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-D5A6BD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-5D3F33?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/evellyn-ellen/">
-<img src="https://img.shields.io/badge/LinkedIn-D5A6BD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-5D3F33?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ♡ Sobre Mim
+# Sobre mim
 
-Olá! Sou Evellyn Ellen, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, direcionando minha carreira para **Cibersegurança, SOC (Centro de Operações de Segurança) e Blue Team**.
+Olá! Sou Evellyn Ellen, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco profissional em **Cibersegurança, Security Operations (SOC) e Blue Team**.
 
-Tenho interesse em monitoramento de segurança, triagem de alertas, análise de logs, detecção de ameaças e investigação de incidentes. Meu objetivo é desenvolver habilidades práticas para conquistar minha primeira oportunidade como **Analista SOC Júnior**, construindo experiência por meio de laboratórios, ferramentas de segurança e documentação técnica.
+Tenho interesse em operações de segurança, monitoramento de eventos, análise de logs, engenharia de detecção, investigação de ameaças e resposta a incidentes.
 
-Atualmente, estou construindo base ténica em:
+Meu objetivo é desenvolver competências técnicas e analíticas para atuar como **Analista SOC Júnior**, construindo experiência prática por meio de laboratórios, investigações documentadas e projetos de segurança defensiva.
 
-- **Operações de Segurança:** monitoramento de segurança, triagem de alertas e análise inicial de incidentes.
-- **SIEM e Análise de Logs:** coleta, investigação de logs de sistemas, monitoramento de eventos, investigação e identificação de atividades suspeitas.
-- **Segurança de Redes:** TCP/IP, DNS, protocolos, análise de tráfego e identificação de comportamento anômalos.
-- **Segurança em Windows e Linux:** eventos do sistema, processos, permissões e investigação de atividades suspeitas.
-- **Detecção de Ameaças:** indicadores de comprometimento (IOCs) e fundamentos de detecção.
-- **Resposta a Incidentes:** análise de evidências, investigação e recomendações de contenção.
-- **Laboratórios de Cibersegurança:** exercícios práticos em ambientes virtuais controlados.
+Atualmente, direciono meus estudos para:
 
-Meu foco é aprender de forma prática, documentar minhas descobertas e desenvolver um portfólio que demonstre meu raciocínio analítico, minha evolução técnica e minha capacidade de investigar problemas de segurança.
+- **Security Operations:** monitoramento, triagem de alertas e investigação de eventos de segurança.
+- **SIEM:** coleta, correlação e análise de logs.
+- **Detection Engineering:** desenvolvimento, validação e aprimoramento de regras de detecção.
+- **Network Security:** análise de tráfego, protocolos e identificação de atividades suspeitas.
+- **Digital Forensics:** análise de evidências, timelines e investigação de incidentes.
+- **Incident Response:** documentação, recomendações de contenção e lições aprendidas.
+- **Security Automation:** desenvolvimento de scripts para apoiar tarefas de análise e investigação.
 
-**Objetivo profissional:** conquistar minha primeira oportunidade como Analista SOC Júnior e evoluir nas áreas de Security Operations, Blue Team e Resposta a Incidentes.
+Busco desenvolver projetos que demonstrem não apenas a utilização de ferramentas, mas também o processo de análise, as evidências coletadas, as decisões técnicas e os resultados obtidos.
+
+**Objetivo profissional:** atuar em operações de segurança, com especialização em SOC, Blue Team, Detection Engineering e Incident Response.
 
 ---
 
-# 🛡️ Cybersecurity Toolkit
+# Ferramentas e tecnologias
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Wazuh-D5A6BD?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-D5A6BD?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-D5A6BD?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-D5A6BD?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-D5A6BD?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirtualBox-D5A6BD?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-D5A6BD?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-D5A6BD?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-5D3F33?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-5D3F33?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-5D3F33?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-5D3F33?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-5D3F33?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-5D3F33?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-5D3F33?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-5D3F33?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
-*Ferramentas e tecnologias para estudo, experimentação e desenvolvimento de laboratórios práticos.*
+**Ambientes e plataformas de estudo:**
+- VirtualBox
+- Ubuntu / Linux
+- Windows
+- TryHackMe
+
+*Ferramentas e tecnologias estudadas ou utilizadas em diferentes etapas da minha formação.*
 
 ---
 
-# 🔬 Projetos de Cybersecurity
+# Projetos de Cibersegurança
 
-Projetos planejados para desenvolver habilidades práticas em operações de segurança, monitoramento, detecção de ameaças e investigação de incidentes.
+Meu portfólio é direcionado ao desenvolvimento de competências práticas em operações de segurança, engenharia de detecção, investigação e resposta a incidentes.
 
-| Projeto | Área | Status |
-|---|---|---|
-| SOC Home Lab | SIEM, Wazuh e monitoramento de segurança | Planejado |
-| Network Traffic Analysis | Wireshark, DNS, TCP e análise de arquivos PCAP | Planejado |
-| Windows Security Event Analysis | Logs do Windows e investigação de atividades suspeitas | Planejado |
-| Incident Investigation Reports | Análise de evidências e relatórios de investigação | Planejado |
+Os projetos seguem uma abordagem baseada em evidências, documentação técnica, testes reproduzíveis e análise de resultados.
 
-### 🔎 Objetivos dos projetos
+## 01. SOC Operations & Incident Management
 
-- Construir e documentar um laboratório de SOC.
-- Investigar tráfego de rede em ambientes controlados.
-- Analisar logs e eventos de segurança.
-- Praticar a identificação de comportamentos suspeitos.
-- Elaborar relatórios técnicos com evidências, conclusões e recomendações.
-- Desenvolver raciocínio analítico aplicado à investigação de incidentes.
+**Repositório:** `soc-lab`
 
-*Os repositórios e as evidências serão adicionados conforme os projetos forem desenvolvidos.*
+**Área:** Security Operations | SIEM | Blue Team | Incident Response
+
+Desenvolvimento de um laboratório de operações de segurança com fluxo completo de monitoramento e investigação de eventos.
+
+**Escopo técnico:**
+- Estruturação de ambiente de monitoramento com Wazuh.
+- Coleta e centralização de eventos de segurança.
+- Monitoramento de endpoints Windows e Linux.
+- Integração e análise de eventos do Sysmon.
+- Desenvolvimento de regras de detecção próprias.
+- Triagem, classificação e priorização de alertas.
+- Investigação de incidentes com evidências.
+- Mapeamento de comportamentos ao MITRE ATT&CK.
+- Elaboração de playbooks de resposta.
+- Análise de falsos positivos e aprimoramento de detecções.
+- Desenvolvimento de métricas operacionais.
+
+**Entregáveis:**
+- Arquitetura documentada do laboratório.
+- Regras de detecção e critérios de classificação.
+- Relatórios de investigação.
+- Playbooks de resposta a incidentes.
+- Métricas de monitoramento e desempenho.
+- Registro de melhorias e lições aprendidas.
+
+**Status:** Em estruturação.
 
 ---
 
-# 🧰 Competências Técnicas
+## 02. Detection Engineering Lab
 
-### Segurança da Informação e Blue Team
+**Repositório:** `detection-engineering-lab`
 
-- Fundamentos de operações de segurança (SOC)
-- Monitoramento de eventos de segurança
-- Triagem e investigação inicial de alertas
-- Fundamentos de SIEM e análise de logs
-- Indicadores de comprometimento (IOCs)
-- Fundamentos de detecção de ameaças
-- Fundamentos de resposta a incidentes
+**Área:** Detection Engineering | SIEM | Threat Detection
 
-### Segurança de Redes
+Projeto voltado à criação, validação e aprimoramento de mecanismos de detecção de ameaças.
 
-- TCP/IP e IPv4
-- DNS e DHCP
-- Portas e protocolos de rede
-- Análise de tráfego de rede
-- Fundamentos do Wireshark e arquivos PCAP
-- Fundamentos do Nmap e reconhecimento autorizado de redes
+**Escopo técnico:**
+- Desenvolvimento de regras de detecção utilizando Sigma.
+- Estruturação e versionamento de regras em YAML.
+- Definição de hipóteses de detecção.
+- Mapeamento de técnicas ao MITRE ATT&CK.
+- Criação de cenários de teste controlados.
+- Validação de detecções positivas e negativas.
+- Testes de regressão.
+- Análise de falsos positivos e falsos negativos.
+- Ajuste de regras e documentação de mudanças.
+- Avaliação de cobertura de detecção.
+
+**Entregáveis:**
+- Repositório de regras Sigma.
+- Documentação técnica de cada detecção.
+- Casos de teste reproduzíveis.
+- Resultados de validação.
+- Histórico de alterações.
+- Relatórios de cobertura e ajustes.
+
+**Status:** Planejado.
+
+---
+
+## 03. Digital Forensics & Incident Investigation
+
+**Repositório:** `digital-forensics-lab`
+
+**Área:** Digital Forensics | Incident Response | Investigation
+
+Laboratório de investigação digital voltado à análise de evidências e reconstrução de eventos de segurança.
+
+**Escopo técnico:**
+- Análise de logs do Windows e Linux.
+- Investigação de eventos utilizando arquivos EVTX.
+- Análise de arquivos PCAP.
+- Identificação e organização de evidências.
+- Verificação de integridade por hashes.
+- Documentação da cadeia de custódia.
+- Construção de timelines de eventos.
+- Formulação e validação de hipóteses.
+- Correlação de evidências.
+- Elaboração de relatórios técnicos e executivos.
+
+**Entregáveis:**
+- Casos de investigação documentados.
+- Inventário de evidências.
+- Registros de hashes e integridade.
+- Timelines de eventos.
+- Relatórios de investigação.
+- Conclusões e recomendações técnicas.
+
+**Status:** Planejado.
+
+---
+
+## 04. Security Automation Toolkit
+
+**Repositório:** `security-automation-toolkit`
+
+**Área:** Python | Security Automation | Blue Team
+
+Desenvolvimento de ferramentas em Python para auxiliar atividades de análise, organização de evidências e investigação de segurança.
+
+**Escopo técnico:**
+- Scripts para análise e organização de logs.
+- Extração e identificação de indicadores de comprometimento (IOCs).
+- Análise básica de endereços IP e domínios.
+- Processamento de arquivos de eventos.
+- Automatização de tarefas repetitivas de análise.
+- Tratamento e organização de resultados.
+- Registro de erros e documentação das ferramentas.
+
+**Entregáveis:**
+- Scripts documentados.
+- Ferramentas de linha de comando.
+- Exemplos de entrada e saída.
+- Testes funcionais.
+- Documentação de utilização.
+- Histórico de desenvolvimento.
+
+**Status:** Planejado.
+
+---
+
+## 05. Network Threat Analysis
+
+**Repositório:** `network-threat-analysis`
+
+**Área:** Network Security | Traffic Analysis | Network Investigation
+
+Projeto dedicado à investigação de tráfego de rede e identificação de comportamentos potencialmente suspeitos em ambientes controlados.
+
+**Escopo técnico:**
+- Análise de protocolos TCP/IP.
+- Investigação de consultas DNS.
+- Análise de conexões e sessões TCP.
+- Inspeção de arquivos PCAP com Wireshark.
+- Identificação de padrões incomuns de comunicação.
+- Análise de metadados de rede.
+- Correlação de eventos e indicadores.
+- Investigação de hipóteses de atividade suspeita.
+- Documentação de evidências e conclusões.
+
+**Entregáveis:**
+- Arquivos PCAP de laboratório.
+- Filtros de análise documentados.
+- Relatórios de investigação de rede.
+- Evidências e indicadores identificados.
+- Conclusões técnicas e recomendações.
+
+**Status:** Planejado.
+
+---
+
+## Metodologia de desenvolvimento
+
+Os projetos seguem um processo de investigação estruturado:
+
+1. **Coleta:** obtenção de eventos, logs e evidências.
+2. **Detecção:** identificação de comportamentos suspeitos.
+3. **Triagem:** classificação e priorização de alertas.
+4. **Investigação:** análise de evidências e correlação de eventos.
+5. **Resposta:** definição de ações e recomendações.
+6. **Lições aprendidas:** documentação dos resultados.
+7. **Melhoria contínua:** validação, ajustes e aprimoramento das detecções.
+
+O objetivo é desenvolver projetos reproduzíveis, com documentação técnica, histórico de alterações, evidências verificáveis e resultados mensuráveis.
+
+---
+
+# Competências técnicas
+
+### Security Operations & Blue Team
+- Fundamentos de SOC.
+- Monitoramento de eventos de segurança.
+- Fundamentos de SIEM.
+- Triagem e classificação de alertas.
+- Análise de logs.
+- Indicadores de comprometimento (IOCs).
+- Fundamentos de detecção de ameaças.
+- Fundamentos de resposta a incidentes.
+
+### Network Security
+- TCP/IP e IPv4.
+- DNS e DHCP.
+- Portas e protocolos.
+- Análise de tráfego de rede.
+- Wireshark e arquivos PCAP.
 
 ### Sistemas Operacionais
+- Linux / Ubuntu.
+- Windows.
+- Linha de comando.
+- Fundamentos de administração de sistemas.
+- Virtualização com VirtualBox.
 
-- Windows e análise de eventos do sistema
-- Linux e linha de comando
-- Processos, serviços e permissões
-- Fundamentos de PowerShell
-- Virtualização com VirtualBox
+### Programação e ferramentas
+- Python (fundamentos).
+- Git e GitHub.
+- Wazuh.
+- Wireshark.
+- TryHackMe.
 
-### Ferramentas e Tecnologias
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Wazuh-D5A6BD?style=flat-square&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-D5A6BD?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-D5A6BD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Windows-D5A6BD?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-D5A6BD?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-D5A6BD?style=flat-square&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-D5A6BD?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-D5A6BD?style=flat-square&logo=github&logoColor=white"/>
-
-</div>
-
-*Competências em desenvolvimento por meio de estudos, laboratórios e documentação técnica.*
+*Competências em desenvolvimento por meio de estudos, laboratórios e projetos práticos.*
 
 ---
 
-# 🎓 Certificações de Cibersegurança — Metas
+# Certificações e desenvolvimento profissional
 
-Certificações que pretendo conquistar ao longo da minha trajetória profissional. **Nenhuma das certificações abaixo é apresentada como concluída.**
+Certificações que fazem parte do meu planejamento de desenvolvimento em segurança defensiva.
 
-| Certificação | Foco | Prioridade |
-|---|---|---|
-| [Microsoft Certified: Security Operations Analyst Associate (SC-200)](https://learn.microsoft.com/pt-br/credentials/certifications/security-operations-analyst/) | Monitoramento, investigação de ameaças e operações de segurança | Alta |
-| [CompTIA Security+](https://www.comptia.org/certifications/security) | Fundamentos de segurança, ameaças, riscos e controles defensivos | Média |
-| [Security Blue Team Level 1 (BTL1)](https://www.securityblue.team/blue-team-level-1) | Segurança defensiva prática e investigação de incidentes | Média |
+| Certificação | Área |
+|---|---|
+| [Microsoft SC-200](https://learn.microsoft.com/pt-br/credentials/certifications/security-operations-analyst/) | Operações de segurança e investigação |
+| [CompTIA Security+](https://www.comptia.org/certifications/security) | Segurança da informação |
+| [Blue Team Level 1 (BTL1)](https://www.securityblue.team/blue-team-level-1) | Blue Team e resposta a incidentes |
 
-Minha trajetória de certificações será organizada de acordo com minha evolução técnica, meus objetivos profissionais, os requisitos das vagas e meu orçamento.
-
-*As certificações serão apresentadas como conquistas somente após sua obtenção.*
+*Certificações listadas como metas de estudo, não como qualificações já obtidas.*
 
 ---
 
-# 📊 Estatísticas do GitHub
+# Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=evellynellen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D5A6BD&icon_color=D5A6BD&text_color=F8D7E3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=evellynellen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B69A88&icon_color=5D3F33&text_color=E8DCD3"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&layout=compact&hide_border=true&bg_color=0D1117&title_color=D5A6BD&text_color=F8D7E3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evellynellen&layout=compact&hide_border=true&bg_color=0D1117&title_color=B69A88&text_color=E8DCD3"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=evellynellen&hide_border=true&background=0D1117&ring=D5A6BD&fire=D5A6BD&currStreakNum=F8D7E3&sideNums=F8D7E3&currStreakLabel=D5A6BD&sideLabels=D5A6BD&dates=F8D7E3&stroke=D5A6BD"/>
+<img src="https://streak-stats.demolab.com?user=evellynellen&hide_border=true&background=0D1117&ring=5D3F33&fire=B69A88&currStreakNum=E8DCD3&sideNums=E8DCD3&currStreakLabel=B69A88&sideLabels=B69A88&dates=E8DCD3&stroke=5D3F33"/>
 
 </div>
 
 ---
 
-# 🌸 Gráfico de Contribuições
+# Gráfico de contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=evellynellen&bg_color=0D1117&color=F8D7E3&line=D5A6BD&point=D5A6BD&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evellynellen&bg_color=0D1117&color=E8DCD3&line=806052&point=B69A88&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📫 Contato
+# Contato
 
-Tenho interesse em oportunidades de estágio e posições de entrada em **Cibersegurança, SOC, Blue Team e Operações de Segurança**.
+Aberta a conexões profissionais, oportunidades de estágio e posições de entrada em Cibersegurança, SOC e Blue Team.
 
 <div align="center">
 
 <a href="mailto:evellynellen.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-D5A6BD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-5D3F33?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/evellyn-ellen/">
-<img src="https://img.shields.io/badge/LinkedIn-D5A6BD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-5D3F33?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/evellynellen">
-<img src="https://img.shields.io/badge/GitHub-D5A6BD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-5D3F33?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-*"Aprendendo a detectar, investigar e defender — um laboratório de cada vez."*
+**Aprender. Investigar. Detectar. Defender.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=D5A6BD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=5D3F33"/>
 
 </div>
